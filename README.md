@@ -1,4 +1,4 @@
-# Proj1
+# Project1
 
 **TODO: Add description**
 
